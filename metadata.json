@@ -1,0 +1,5 @@
+{
+  "name": "TN Audit Assistant",
+  "description": "A web application to assist with the auditing process for Tamil Nadu Government Institutions. It helps manage audit records, track progress, use checklists, and generate reports for various government schemes and institutions.",
+  "requestFramePermissions": []
+}
